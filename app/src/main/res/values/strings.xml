@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">SimpsonsRecorder</string>
+    <string name="guardar">GUARDAR</string>
+
+    <string name="cerrar">SALIR</string>
+    <string name="copiar">COPIAR</string>
+
+</resources>
